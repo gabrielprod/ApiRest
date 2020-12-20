@@ -50,6 +50,7 @@ Exemplo de resposta:
 Este endpoint é responsaveL pela autenticação do usuario na minha api, assim tendo acesso a api e nao a serviços da api, que ira ser definido posteriormente.
 #### Paramêtros
 email : email do usuario cadastrado no sistema.
+
 password : senha do usuario cadastrado no sistema.
 
 Exemplo :
