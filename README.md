@@ -1,4 +1,4 @@
-# ApiRest
+# RestApi
 Esta API é utilizada para trabalhar com dados, contendo também autenticação com JWT(JsonWebToken).
 ## Endpoints
 ### GET /games
